@@ -2,7 +2,7 @@
 
 Olá!
 
-Infelizmente ainda não consegui construir meu blog, mas enquanto isso, vou deixar aqui a bio do meu [currículo](https://dutitello.github.io/cv.pdf) e uma ideia do conteúdo que pretendo de postar.
+Infelizmente ainda não consegui construir meu blog, mas enquanto isso, vou deixar aqui a bio do meu [currículo](https://github.com/dutitello/dutitello.github.io/raw/master/CV.pdf) e uma ideia do conteúdo que pretendo de postar.
 
 # Bio
 
